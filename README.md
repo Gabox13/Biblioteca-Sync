@@ -265,4 +265,4 @@ La lógica debe ir donde se simula el tiempo de lectura en el ejemplo, en el cas
 ```
 La lógica debe ir donde se simula el tiempo de escritura en el ejemplo, en el caso de escribir.
 
-
+Si quiere ver el ejemplo corriendo llame al metodo `read_write_lock_test();` del `rwlock.h` en su main de C.
